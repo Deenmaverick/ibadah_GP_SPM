@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeenIslamSDK",
-            url: "https://github.com/Deenmaverick/ibadah_GP_SPM/releases/download/1.0.1/DeenIslamSDK.xcframework.zip",
-            checksum: "939375197c15d626ef2c7576ef16887c2b31ebc8d9fd242df99f4600e16659b1"
+            url: "https://github.com/Deenmaverick/ibadah_GP_SPM/releases/download/1.0.2/DeenIslamSDK.xcframework.zip",
+            checksum: "eef6726fedb52f178be9971d55c570876d232c62a0e170b45ed1165ab7796ab5"
         )
     ]
 )
