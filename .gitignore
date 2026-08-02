@@ -1,4 +1,18 @@
-DeenIslamSDK.xcframework
-*.xcframework.zip
-DeenIslamSDK.xcframework
+# macOS
+.DS_Store
+
+# Swift Package Manager
+/.build
+/Packages
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# Xcode
+xcuserdata/
+DerivedData/
+
+# Credentials
+.netrc
+
+# Old distribution artifact — no longer needed with local binary target
 *.xcframework.zip
