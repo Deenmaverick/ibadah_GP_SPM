@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		L5a1BQK/u9L3rAQyKhOMt8WM6Ew=
+		VOmSBG92YdanUKBkZ1k1pq+x/Hc=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -794,7 +794,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		iEk5fBJP29v+Bp+hTvrRADtgiiI=
+		86fUQKL9Olj+KvRKXMxnIROquW8=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -810,7 +810,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		h8zXpk4brs2O9hYZuo+eUx9mkIc=
+		Fw58sGKGE3tiisG/QoiYZifZ7XI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -874,7 +874,7 @@
 		</data>
 		<key>NameCell.nib</key>
 		<data>
-		CVT/2fLfpBaUQXkwaeeIF1VsoHw=
+		Tzjk6s8C5LfyoaVzl9kzjK4CFVs=
 		</data>
 		<key>NameDetailsCell.nib</key>
 		<data>
@@ -1218,7 +1218,7 @@
 		</data>
 		<key>SubscriptionHeader.nib</key>
 		<data>
-		yBfaOxyo8RTtEKpH/xxJIpPpvvg=
+		6VVtcdg+Ehocc1j/tv4SgHyl5kE=
 		</data>
 		<key>SubscriptionVC.nib</key>
 		<data>
@@ -1290,7 +1290,7 @@
 		</data>
 		<key>TextCell.nib</key>
 		<data>
-		L1NlVIzR/51xBc5aMgFjuZdyDJU=
+		7VvfjTEfi+A9RmRlXGP+5aScTi0=
 		</data>
 		<key>TimeCell.nib</key>
 		<data>
@@ -1390,7 +1390,7 @@
 		</data>
 		<key>ZakatNisabDropDownTvCell.nib</key>
 		<data>
-		gMb5gn9r20V78fLztLar2pIrF2Q=
+		w9Y4R+XuBxarBdk8rtz3c7+jy3U=
 		</data>
 		<key>ZakatNisabStepsHeaderViewCell.nib</key>
 		<data>
@@ -1537,7 +1537,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vdXM2fcCwzgACQmoItpAt4G6wc9j6BIEPoGkyYQDGxw=
+			+WxBTlwCEdVUMf7WEwIOvAtcPy9RHaGNyWBohSgQcwg=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2853,7 +2853,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuyLrfWvc5e2CP21cQmi8BxuAzeCfNXB3tXYg7Po6Jo=
+			3Us5KXgVZlyYxiEN1aWbgl/G4irdJuJO9EOOswN9aho=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2881,7 +2881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A/m1+LNRnPgN0NaOgaUZ3pouBT0UUeS9u2HENpM6VCo=
+			rpZXjwCWjjuUwIzPNIhaWb6+/jdGrVMD09AeeQHSkS0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2993,7 +2993,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VoqylGfQPQPT56AC8hdK+PGOnSEutOki5qNdXma1nLI=
+			RNDl2rkmVrcJw6lqHMxmuP0bf2syOXwSc9XN6FAV4s4=
 			</data>
 		</dict>
 		<key>NameDetailsCell.nib</key>
@@ -3595,7 +3595,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			au2T1v6o3+Hg/i6K5+zv3R+oPhtxC4eRHF6fY9e5820=
+			25JOIolHgWW8Mb/XuDN6Y8DIR/UKtLTjIuM1K/fmzfM=
 			</data>
 		</dict>
 		<key>SubscriptionVC.nib</key>
@@ -3721,7 +3721,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqDBsHeex54DKFcXnAN9UjUABuIGkX+Z0ZzFfe/L9EQ=
+			pzt2RRB10j1gOUP5RwDSLCJ+xndmPr14BfAQT6JH2vo=
 			</data>
 		</dict>
 		<key>TimeCell.nib</key>
@@ -3896,7 +3896,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7c4x/7IxkLndiA3D+38lnrXhyh8zp6iuh8V3sW8AVrc=
+			xmZAPoVBNo9DJxepjz2xgLq8i2+a4SrpwLPWBv2ex1k=
 			</data>
 		</dict>
 		<key>ZakatNisabStepsHeaderViewCell.nib</key>
