@@ -794,7 +794,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		86fUQKL9Olj+KvRKXMxnIROquW8=
+		zux3bY36f5cDz668DgZO6ePfdWI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -810,7 +810,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Fw58sGKGE3tiisG/QoiYZifZ7XI=
+		gIFHXvGDZhEWAXYTucgWBar8S2w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2853,7 +2853,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Us5KXgVZlyYxiEN1aWbgl/G4irdJuJO9EOOswN9aho=
+			wmJq2rNol9VlPFeMRcS3MN5km9FsARvxJUxnvcl12nQ=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2881,7 +2881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rpZXjwCWjjuUwIzPNIhaWb6+/jdGrVMD09AeeQHSkS0=
+			SZdvC66MSUlgPiDvwGeeDJFEiGhOBN4K/UIK9ddMD8g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
