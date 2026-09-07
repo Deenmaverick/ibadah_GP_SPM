@@ -662,7 +662,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qoO9wqX4wS0s3YttBUIOYgUoFHM=
+		OTyoTKN9E0jcRmf6kZOyGIxaKWQ=
 		</data>
 		<key>InfoRichPromoCard.nib</key>
 		<data>
@@ -794,7 +794,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		zux3bY36f5cDz668DgZO6ePfdWI=
+		kmHvV7jT/eW7aXcGPQQww49K0ls=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -810,7 +810,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gIFHXvGDZhEWAXYTucgWBar8S2w=
+		YU0x8EVBYeB1EaIPDbpQdv2vhWM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1374,7 +1374,7 @@
 		</data>
 		<key>ZakatLiabilitiesCalculator.nib</key>
 		<data>
-		2+TTqTHmy3v9B9JPG4pPkDT7qV4=
+		XdE6eSgZFhc0QYBLa3Ss61vH8+g=
 		</data>
 		<key>ZakatMenu.nib</key>
 		<data>
@@ -1398,15 +1398,15 @@
 		</data>
 		<key>ZakatPropertyCalculationInfo.nib</key>
 		<data>
-		hxxWrX+62LBkwXuaxICI7lT+OGY=
+		4tA6M6cJKCaXUXhhkKlnqfqmbz4=
 		</data>
 		<key>ZakatSavedCell.nib</key>
 		<data>
-		2fpQQrrx+DDTuc2cCa50nRjQOCY=
+		0bBZ+RY9JGXh9KAFDjKPv8fcmF4=
 		</data>
 		<key>ZakatVC.nib</key>
 		<data>
-		Bm9T9yvzeTyKwveXUPd8O1IzfkI=
+		fVzX6sQZ0ZMGCcsAqUl4bKlwfu4=
 		</data>
 		<key>ai_typing.json</key>
 		<data>
@@ -1428,7 +1428,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DxLVrBqd1coL2TmtacKWA7dSbn8=
+			hhvqjU2pyPcyzksF99T2h24XQ3k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1441,7 +1441,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nNtd1xQhuialJhTuJxTMfhb7brs=
+			hjT1PMphYDQWbkZnWeCG1si+gQw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2853,7 +2853,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wmJq2rNol9VlPFeMRcS3MN5km9FsARvxJUxnvcl12nQ=
+			Nrb+dAu1xljqs6R2sKunZJGz0WwFsGV9hnIIow51uEc=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2881,7 +2881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SZdvC66MSUlgPiDvwGeeDJFEiGhOBN4K/UIK9ddMD8g=
+			lmCFxqAjf5KeMvw9IXFf3hYyQBQ5p/ksW0S9TegDE5c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3868,7 +3868,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UVTZ/gdRmpXEg9hH4FhfAhBW0ymzyg3FSRzAwWmc8Xs=
+			kYUrU4VSJ5v6jLQUgzd49nDm5B8eZ70ixTgj8Q44MB8=
 			</data>
 		</dict>
 		<key>ZakatMenu.nib</key>
@@ -3910,21 +3910,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pBXijVoJfKTuulifMjODyf4ne4r6PogUaZd2yiYQsTg=
+			AcReHvhKqHaAbMF2K2xbSBJRBGgl2M3pgqS+CcggUAU=
 			</data>
 		</dict>
 		<key>ZakatSavedCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r1JdKcpx2Cl2yOQtrquNxE1DPcaeyYBZHxNkaTW9l7M=
+			idDssr+YBIUEPJyFA40gvEBiy8TsyMV2ah1ZWULHgcI=
 			</data>
 		</dict>
 		<key>ZakatVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TOzgg2iAEPvmQSXNnA0ermhsYaZThZlapM4oatozKX0=
+			E2TabOGW9B9bBrozpWFhEX3zgdFkgSvJpHHSDo6Q6R4=
 			</data>
 		</dict>
 		<key>ai_typing.json</key>
@@ -3959,7 +3959,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ahGu2Gxd6BsLRuM5GPmAhkdWpCC7IZuA3HPR4jbYlks=
+			gkTU5ZV2u/mscnwriboLxSBtOgK2CrDUyIlboRvEU3E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3975,7 +3975,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BgYa+Dqrpy0xpaIvC35UZkcXCbpNgLk/LHqe1R3sXlo=
+			w+CDF2tGPi6I59/jWaBJu5oXwsmix1quxrfX6Gxhw7I=
 			</data>
 			<key>optional</key>
 			<true/>

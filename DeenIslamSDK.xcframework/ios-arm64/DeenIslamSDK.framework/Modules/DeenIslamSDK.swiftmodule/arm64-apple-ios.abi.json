@@ -108334,7 +108334,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 8,
-      "value": "\"v1.0.7\""
+      "value": "\"v1.0.8\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Vmax\/VmaxAdSpaceManager.swift",
@@ -118807,6 +118807,20 @@
       "offset": 1113,
       "length": 10,
       "value": "\"Division\""
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Zakat\/ZakatCalculationHomeNisab\/ZakatCalculationHomeNisab.swift",
+      "kind": "Array",
+      "offset": 561,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Zakat\/ZakatCalculationHomeNisab\/ZakatCalculationHomeNisab.swift",
+      "kind": "IntegerLiteral",
+      "offset": 600,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/QuranPlayerVC\/QuranPlayerVM.swift",
