@@ -794,7 +794,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vXMtPmZpIo06wuMVH482Fjc8UXE=
+		xYnvYm+82UjF7fZmmQ1/GkA2DcI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -810,11 +810,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Yt+mcMoqpoi2lO65KsIOcfAP/ZU=
+		hi3Rp3GLncNWpozZpGPHSs9Nmio=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vXMtPmZpIo06wuMVH482Fjc8UXE=
+		xYnvYm+82UjF7fZmmQ1/GkA2DcI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -830,7 +830,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		42d1vjk6LJ6gJIuzYUUxrkAf+ts=
+		1upZAObyRyaZec6vJSyJRDDlhQM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1448,7 +1448,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hhvqjU2pyPcyzksF99T2h24XQ3k=
+			rokSgrXLVw+x+K8wKMmWoGr9h08=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2873,7 +2873,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			65BbB1/L7vmiUVGIUKLW5nYXu7jK+7NyHwE9y8cJ7GE=
+			OVPi8wFRh7jAuCkez18vgDhC81m6xpCI+/JnAmgCk7k=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -2901,14 +2901,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3ZL/mHdGTkHHJCVLstevccYalAlKYtB+X6ZWy5gk8A=
+			gXGS/JWRICl5SAd/1EMrzvJ2JwELV4aLIwVCyBLEufg=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			65BbB1/L7vmiUVGIUKLW5nYXu7jK+7NyHwE9y8cJ7GE=
+			OVPi8wFRh7jAuCkez18vgDhC81m6xpCI+/JnAmgCk7k=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -2936,7 +2936,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+kSfzhHKdDOssUGCSqnt6NeevTXl4hFpvi2nrG0YGms=
+			kfTvblGOVpAcp35p0rQxo5kxQY5pxA9dtIKs7kVtxZI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -4014,7 +4014,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gkTU5ZV2u/mscnwriboLxSBtOgK2CrDUyIlboRvEU3E=
+			ZTyKYAJP8JXVqc10W6FybfP6NzIj7D9XoTmKb264MqA=
 			</data>
 			<key>optional</key>
 			<true/>
