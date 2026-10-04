@@ -107992,245 +107992,238 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 579,
+      "offset": 504,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "Array",
-      "offset": 631,
+      "offset": 556,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 863,
+      "offset": 788,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1055,
+      "offset": 980,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1189,
+      "offset": 1114,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1383,
+      "offset": 1308,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1520,
+      "offset": 1445,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "StringLiteral",
-      "offset": 1686,
+      "offset": 1611,
       "length": 14,
       "value": "\"chevron.left\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1833,
+      "offset": 1758,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "StringLiteral",
-      "offset": 2088,
+      "offset": 2013,
       "length": 15,
       "value": "\"chevron.right\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 2236,
+      "offset": 2161,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2553,
+      "offset": 2478,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 2613,
+      "offset": 2538,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2805,
+      "offset": 2730,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2848,
+      "offset": 2773,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3081,
+      "offset": 3006,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3154,
+      "offset": 3079,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3372,
+      "offset": 3297,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3439,
+      "offset": 3364,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "Array",
-      "offset": 3546,
+      "offset": 3471,
       "length": 118,
       "value": "[\"রবি\", \"সোম\", \"মঙ্গল\", \"বুধ\", \"বৃহস্পতি\", \"শুক্র\", \"শনি\"]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "Array",
-      "offset": 3920,
+      "offset": 3622,
       "length": 282,
       "value": "[\"জানুয়ারি\", \"ফেব্রুয়ারি\", \"মার্চ\", \"এপ্রিল\", \"মে\", \"জুন\", \"জুলাই\", \"আগস্ট\", \"সেপ্টেম্বর\", \"অক্টোবর\", \"নভেম্বর\", \"ডিসেম্বর\"]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "Array",
-      "offset": 4233,
+      "offset": 3935,
       "length": 304,
       "value": "[\"মুহাররম\", \"সফর\", \"রবিউল আউয়াল\", \"রবিউস সানি\", \"জমাদিউল আউয়াল\", \"জমাদিউস সানি\", \"রজব\", \"শাবান\", \"রমজান\", \"শাওয়াল\", \"জিলকদ\", \"জিলহজ\"]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 17908,
+      "offset": 17280,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 18140,
+      "offset": 17512,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 18258,
+      "offset": 17630,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 18452,
+      "offset": 17824,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "FloatLiteral",
-      "offset": 18526,
+      "offset": 17898,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 18589,
+      "offset": 17961,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 18783,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20967,
+      "offset": 18155,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 23016,
+      "offset": 21982,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 23219,
+      "offset": 22185,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "FloatLiteral",
-      "offset": 23229,
+      "offset": 22195,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "FloatLiteral",
-      "offset": 23240,
+      "offset": 22206,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/NamajTime\/MonthlyTracker\/Calender\/CalendarCell.swift",
       "kind": "FloatLiteral",
-      "offset": 23252,
+      "offset": 22218,
       "length": 3,
       "value": "1.0"
     },
@@ -108623,8 +108616,8 @@
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/Extensions\/AppConstant.swift",
       "kind": "StringLiteral",
       "offset": 156,
-      "length": 9,
-      "value": "\"v1.0.10\""
+      "length": 8,
+      "value": "\"v1.0.8\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Vmax\/VmaxAdSpaceManager.swift",
@@ -137987,1526 +137980,1533 @@
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5158,
+      "offset": 5150,
+      "length": 9,
+      "value": "\"premium\""
+    },
+    {
+      "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5291,
       "length": 13,
       "value": "\"quranBorder\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5307,
+      "offset": 5440,
       "length": 15,
       "value": "\"quranSelectBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5449,
+      "offset": 5582,
       "length": 13,
       "value": "\"shadowColor\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5593,
+      "offset": 5726,
       "length": 15,
       "value": "\"subtitleColor\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5742,
+      "offset": 5875,
       "length": 14,
       "value": "\"tashbeeCount\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5881,
+      "offset": 6014,
       "length": 12,
       "value": "\"titleColor\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6031,
+      "offset": 6164,
       "length": 16,
       "value": "\"titleSecondary\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6272,
+      "offset": 6405,
       "length": 7,
       "value": "\"AsrBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6406,
+      "offset": 6539,
       "length": 11,
       "value": "\"Asr_Light\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6554,
+      "offset": 6687,
       "length": 16,
       "value": "\"Asr_background\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6694,
+      "offset": 6827,
       "length": 9,
       "value": "\"Asrlogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6833,
+      "offset": 6966,
       "length": 12,
       "value": "\"AvatarIcon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6963,
+      "offset": 7096,
       "length": 6,
       "value": "\"Beta\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7102,
+      "offset": 7235,
       "length": 14,
       "value": "\"Book tafseer\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7242,
+      "offset": 7375,
       "length": 10,
       "value": "\"Calendar\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7390,
+      "offset": 7523,
       "length": 16,
       "value": "\"CategoryViewBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7541,
+      "offset": 7674,
       "length": 15,
       "value": "\"Category_icon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7686,
+      "offset": 7819,
       "length": 12,
       "value": "\"Chartempty\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7822,
+      "offset": 7955,
       "length": 9,
       "value": "\"ChastBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7981,
+      "offset": 8114,
       "length": 22,
       "value": "\"CheckboxOvalAshCross\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8153,
+      "offset": 8286,
       "length": 22,
       "value": "\"CheckboxOvalRedCross\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8299,
+      "offset": 8432,
       "length": 9,
       "value": "\"Checked\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8464,
+      "offset": 8597,
       "length": 25,
       "value": "\"CompassHomeillustration\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8611,
+      "offset": 8744,
       "length": 8,
       "value": "\"DeenAI\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8750,
+      "offset": 8883,
       "length": 13,
       "value": "\"DeenAI logo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8889,
+      "offset": 9022,
       "length": 10,
       "value": "\"DeenLogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9045,
+      "offset": 9178,
       "length": 20,
       "value": "\"DefaultPlaceholder\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9196,
+      "offset": 9329,
       "length": 13,
       "value": "\"Dhuhr_Light\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9350,
+      "offset": 9483,
       "length": 18,
       "value": "\"Dhuhr_background\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9496,
+      "offset": 9629,
       "length": 11,
       "value": "\"Dhuhrlogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9646,
+      "offset": 9779,
       "length": 17,
       "value": "\"Divider margine\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9801,
+      "offset": 9934,
       "length": 16,
       "value": "\"DownArrowWhite\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9941,
+      "offset": 10074,
       "length": 9,
       "value": "\"DuhurBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10094,
+      "offset": 10227,
       "length": 19,
       "value": "\"EidJamatDirection\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10254,
+      "offset": 10387,
       "length": 20,
       "value": "\"EidJamatPlaceImage\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10415,
+      "offset": 10548,
       "length": 20,
       "value": "\"EidJamatTitleImage\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10555,
+      "offset": 10688,
       "length": 7,
       "value": "\"Empty\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10686,
+      "offset": 10819,
       "length": 9,
       "value": "\"FajarBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10827,
+      "offset": 10960,
       "length": 13,
       "value": "\"FajrSignImg\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10975,
+      "offset": 11108,
       "length": 15,
       "value": "\"Fajr_NotLight\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11129,
+      "offset": 11262,
       "length": 17,
       "value": "\"Fajr_background\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11272,
+      "offset": 11405,
       "length": 10,
       "value": "\"Fajrlogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11408,
+      "offset": 11541,
       "length": 10,
       "value": "\"Favorite\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11553,
+      "offset": 11686,
       "length": 15,
       "value": "\"Features Icon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11700,
+      "offset": 11833,
       "length": 13,
       "value": "\"ForbiddenBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11862,
+      "offset": 11995,
       "length": 22,
       "value": "\"Forbidden_background\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12014,
+      "offset": 12147,
       "length": 12,
       "value": "\"GetPremium\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12140,
+      "offset": 12273,
       "length": 4,
       "value": "\"Gp\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12266,
+      "offset": 12399,
       "length": 8,
       "value": "\"GpMore\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12400,
+      "offset": 12533,
       "length": 10,
       "value": "\"GpMoreEN\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12536,
+      "offset": 12669,
       "length": 10,
       "value": "\"HajjIcon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12686,
+      "offset": 12819,
       "length": 17,
       "value": "\"HomeLeftNavLogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12829,
+      "offset": 12962,
       "length": 10,
       "value": "\"HomeLogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12975,
+      "offset": 13108,
       "length": 15,
       "value": "\"HomeMenuClose\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13117,
+      "offset": 13250,
       "length": 11,
       "value": "\"Info_icon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13250,
+      "offset": 13383,
       "length": 8,
       "value": "\"IshaBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13394,
+      "offset": 13527,
       "length": 16,
       "value": "\"Isha_Not_Light\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13549,
+      "offset": 13682,
       "length": 17,
       "value": "\"Isha_background\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13692,
+      "offset": 13825,
       "length": 10,
       "value": "\"Ishalogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13828,
+      "offset": 13961,
       "length": 10,
       "value": "\"IshraqBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13973,
+      "offset": 14106,
       "length": 15,
       "value": "\"Maghrib_Light\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14133,
+      "offset": 14266,
       "length": 20,
       "value": "\"Maghrib_background\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14285,
+      "offset": 14418,
       "length": 13,
       "value": "\"Maghriblogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14424,
+      "offset": 14557,
       "length": 10,
       "value": "\"MagribBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14552,
+      "offset": 14685,
       "length": 6,
       "value": "\"Menu\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14678,
+      "offset": 14811,
       "length": 7,
       "value": "\"Minar\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14814,
+      "offset": 14947,
       "length": 14,
       "value": "\"MorningImage\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14968,
+      "offset": 15101,
       "length": 17,
       "value": "\"NamajBackground\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15138,
+      "offset": 15271,
       "length": 24,
       "value": "\"NamazLearnigImg_Female\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15313,
+      "offset": 15446,
       "length": 23,
       "value": "\"NamazLearningImg_Male\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15478,
+      "offset": 15611,
       "length": 18,
       "value": "\"NamazTimeHomeImg\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15624,
+      "offset": 15757,
       "length": 11,
       "value": "\"Nameshape\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15764,
+      "offset": 15897,
       "length": 12,
       "value": "\"New_prompt\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15907,
+      "offset": 16040,
       "length": 13,
       "value": "\"New_promptV\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16050,
+      "offset": 16183,
       "length": 12,
       "value": "\"NoPrayerBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16212,
+      "offset": 16345,
       "length": 23,
       "value": "\"PlayPause_overlay_Img\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16372,
+      "offset": 16505,
       "length": 16,
       "value": "\"PlayerGrid_img\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16525,
+      "offset": 16658,
       "length": 16,
       "value": "\"PlayerList_Img\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16671,
+      "offset": 16804,
       "length": 12,
       "value": "\"PrayerWaqt\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16825,
+      "offset": 16958,
       "length": 18,
       "value": "\"Prayertarabilogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16985,
+      "offset": 17118,
       "length": 18,
       "value": "\"Premiumanimation\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17131,
+      "offset": 17264,
       "length": 11,
       "value": "\"ProfileBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17260,
+      "offset": 17393,
       "length": 6,
       "value": "\"Qari\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17416,
+      "offset": 17549,
       "length": 22,
       "value": "\"RamadanBlannerBanner\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17578,
+      "offset": 17711,
       "length": 17,
       "value": "\"RightArrowWhite\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17726,
+      "offset": 17859,
       "length": 13,
       "value": "\"Right_arrow\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17879,
+      "offset": 18012,
       "length": 18,
       "value": "\"Sunset_Not_Light\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18021,
+      "offset": 18154,
       "length": 9,
       "value": "\"Tafseer\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18160,
+      "offset": 18293,
       "length": 12,
       "value": "\"TahajjutBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18315,
+      "offset": 18448,
       "length": 19,
       "value": "\"Tasbeeh animation\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18624,
+      "offset": 18757,
       "length": 17,
       "value": "\"TashbeehRefresh\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18777,
+      "offset": 18910,
       "length": 15,
       "value": "\"TashbeehStart\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18920,
+      "offset": 19053,
       "length": 11,
       "value": "\"Translate\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19083,
+      "offset": 19216,
       "length": 24,
       "value": "\"VGPlayer_ic_fullscreen\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19268,
+      "offset": 19401,
       "length": 29,
       "value": "\"VGPlayer_ic_fullscreen_exit\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19444,
+      "offset": 19577,
       "length": 22,
       "value": "\"VGPlayer_ic_nav_back\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19608,
+      "offset": 19741,
       "length": 19,
       "value": "\"VGPlayer_ic_pause\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19767,
+      "offset": 19900,
       "length": 18,
       "value": "\"VGPlayer_ic_play\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19929,
+      "offset": 20062,
       "length": 20,
       "value": "\"VGPlayer_ic_replay\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20104,
+      "offset": 20237,
       "length": 26,
       "value": "\"VGPlayer_ic_slider_thumb\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20252,
+      "offset": 20385,
       "length": 8,
       "value": "\"Vector\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20385,
+      "offset": 20518,
       "length": 10,
       "value": "\"World_BG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20519,
+      "offset": 20652,
       "length": 9,
       "value": "\"YouTube\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20646,
+      "offset": 20779,
       "length": 6,
       "value": "\"Zoom\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20770,
+      "offset": 20903,
       "length": 6,
       "value": "\"back\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20902,
+      "offset": 21035,
       "length": 10,
       "value": "\"backward\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21032,
+      "offset": 21165,
       "length": 7,
       "value": "\"bkash\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21157,
+      "offset": 21290,
       "length": 6,
       "value": "\"book\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21289,
+      "offset": 21422,
       "length": 10,
       "value": "\"bookFill\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21425,
+      "offset": 21558,
       "length": 10,
       "value": "\"bookmark\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21569,
+      "offset": 21702,
       "length": 14,
       "value": "\"bookmarkfill\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21711,
+      "offset": 21844,
       "length": 11,
       "value": "\"boyAvatar\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21840,
+      "offset": 21973,
       "length": 6,
       "value": "\"chat\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21973,
+      "offset": 22106,
       "length": 11,
       "value": "\"chatBG_AI\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22118,
+      "offset": 22251,
       "length": 14,
       "value": "\"chevronright\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22254,
+      "offset": 22387,
       "length": 8,
       "value": "\"circle\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22395,
+      "offset": 22528,
       "length": 14,
       "value": "\"compass_dial\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22533,
+      "offset": 22666,
       "length": 9,
       "value": "\"countBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22674,
+      "offset": 22807,
       "length": 13,
       "value": "\"countdownBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22819,
+      "offset": 22952,
       "length": 14,
       "value": "\"deen_BL_icon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22965,
+      "offset": 23098,
       "length": 13,
       "value": "\"deleteTrash\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23108,
+      "offset": 23241,
       "length": 12,
       "value": "\"disclaimer\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23238,
+      "offset": 23371,
       "length": 6,
       "value": "\"done\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23382,
+      "offset": 23515,
       "length": 16,
       "value": "\"downArrowBlack\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23514,
+      "offset": 23647,
       "length": 5,
       "value": "\"dua\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23651,
+      "offset": 23784,
       "length": 13,
       "value": "\"duaFavorite\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23790,
+      "offset": 23923,
       "length": 10,
       "value": "\"duaShare\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23924,
+      "offset": 24057,
       "length": 9,
       "value": "\"errorBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24059,
+      "offset": 24192,
       "length": 10,
       "value": "\"facebook\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24197,
+      "offset": 24330,
       "length": 11,
       "value": "\"favSelect\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24332,
+      "offset": 24465,
       "length": 9,
       "value": "\"forward\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24471,
+      "offset": 24604,
       "length": 12,
       "value": "\"girlAvatar\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24605,
+      "offset": 24738,
       "length": 8,
       "value": "\"hadith\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24757,
+      "offset": 24890,
       "length": 19,
       "value": "\"hadithChapterIcon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24916,
+      "offset": 25049,
       "length": 17,
       "value": "\"headerBismillah\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25063,
+      "offset": 25196,
       "length": 12,
       "value": "\"headphones\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25214,
+      "offset": 25347,
       "length": 18,
       "value": "\"ic_Left_arrow_NL\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25372,
+      "offset": 25505,
       "length": 18,
       "value": "\"ic_chevron_right\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25535,
+      "offset": 25668,
       "length": 21,
       "value": "\"ic_chevron_right_NL\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25684,
+      "offset": 25817,
       "length": 11,
       "value": "\"ijtemaMap\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25827,
+      "offset": 25960,
       "length": 13,
       "value": "\"islamicName\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25956,
+      "offset": 26089,
       "length": 5,
       "value": "\"juz\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26081,
+      "offset": 26214,
       "length": 7,
       "value": "\"kabba\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26220,
+      "offset": 26353,
       "length": 13,
       "value": "\"leaderboard\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26373,
+      "offset": 26506,
       "length": 18,
       "value": "\"left_Arrow_Black\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26509,
+      "offset": 26642,
       "length": 6,
       "value": "\"like\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26639,
+      "offset": 26772,
       "length": 9,
       "value": "\"lineImg\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26776,
+      "offset": 26909,
       "length": 11,
       "value": "\"lineleft1\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26915,
+      "offset": 27048,
       "length": 11,
       "value": "\"lineleft2\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27054,
+      "offset": 27187,
       "length": 11,
       "value": "\"lineleft3\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27193,
+      "offset": 27326,
       "length": 11,
       "value": "\"lineleft4\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27334,
+      "offset": 27467,
       "length": 12,
       "value": "\"lineright1\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27476,
+      "offset": 27609,
       "length": 12,
       "value": "\"lineright2\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27618,
+      "offset": 27751,
       "length": 12,
       "value": "\"lineright3\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27760,
+      "offset": 27893,
       "length": 12,
       "value": "\"lineright4\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27890,
+      "offset": 28023,
       "length": 6,
       "value": "\"live\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28014,
+      "offset": 28147,
       "length": 6,
       "value": "\"love\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28138,
+      "offset": 28271,
       "length": 6,
       "value": "\"more\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28274,
+      "offset": 28407,
       "length": 13,
       "value": "\"name card F\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28417,
+      "offset": 28550,
       "length": 13,
       "value": "\"name card M\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28568,
+      "offset": 28701,
       "length": 16,
       "value": "\"namebackground\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28711,
+      "offset": 28844,
       "length": 11,
       "value": "\"no_prayer\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28852,
+      "offset": 28985,
       "length": 12,
       "value": "\"nointernet\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29012,
+      "offset": 29145,
       "length": 21,
       "value": "\"notificationsActive\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29181,
+      "offset": 29314,
       "length": 21,
       "value": "\"notificationsNormal\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29344,
+      "offset": 29477,
       "length": 18,
       "value": "\"notificationsOff\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29520,
+      "offset": 29653,
       "length": 26,
       "value": "\"notificationsactivewhite\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29690,
+      "offset": 29823,
       "length": 19,
       "value": "\"notificationsicon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29855,
+      "offset": 29988,
       "length": 20,
       "value": "\"notificationswhite\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30009,
+      "offset": 30142,
       "length": 14,
       "value": "\"onlineHutBTN\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30143,
+      "offset": 30276,
       "length": 7,
       "value": "\"pause\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30278,
+      "offset": 30411,
       "length": 11,
       "value": "\"pauseFill\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30407,
+      "offset": 30540,
       "length": 6,
       "value": "\"play\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30539,
+      "offset": 30672,
       "length": 10,
       "value": "\"playFill\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30679,
+      "offset": 30812,
       "length": 12,
       "value": "\"prayerDone\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30828,
+      "offset": 30961,
       "length": 16,
       "value": "\"privacy_policy\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30977,
+      "offset": 31110,
       "length": 14,
       "value": "\"profile_icon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31125,
+      "offset": 31258,
       "length": 14,
       "value": "\"qiblaCompass\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31259,
+      "offset": 31392,
       "length": 7,
       "value": "\"quran\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31392,
+      "offset": 31525,
       "length": 10,
       "value": "\"quranFav\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31536,
+      "offset": 31669,
       "length": 14,
       "value": "\"quranFavFill\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31682,
+      "offset": 31815,
       "length": 13,
       "value": "\"quranHeader\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31827,
+      "offset": 31960,
       "length": 13,
       "value": "\"quranSuraBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31978,
+      "offset": 32111,
       "length": 16,
       "value": "\"quranSuraBigBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32124,
+      "offset": 32257,
       "length": 12,
       "value": "\"quranVerse\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32268,
+      "offset": 32401,
       "length": 13,
       "value": "\"radioNormal\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32413,
+      "offset": 32546,
       "length": 13,
       "value": "\"radioSelect\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32558,
+      "offset": 32691,
       "length": 13,
       "value": "\"readingMood\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32701,
+      "offset": 32834,
       "length": 12,
       "value": "\"refreshImg\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32837,
+      "offset": 32970,
       "length": 9,
       "value": "\"restart\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33123,
+      "offset": 33256,
       "length": 18,
       "value": "\"right_arrow_card\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33263,
+      "offset": 33396,
       "length": 8,
       "value": "\"search\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33395,
+      "offset": 33528,
       "length": 9,
       "value": "\"sendAIV\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33526,
+      "offset": 33659,
       "length": 8,
       "value": "\"sendAi\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33664,
+      "offset": 33797,
       "length": 12,
       "value": "\"sendButton\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33811,
+      "offset": 33944,
       "length": 15,
       "value": "\"settings_icon\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33946,
+      "offset": 34079,
       "length": 7,
       "value": "\"share\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34087,
+      "offset": 34220,
       "length": 14,
       "value": "\"soundDisable\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34233,
+      "offset": 34366,
       "length": 13,
       "value": "\"soundEnable\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34366,
+      "offset": 34499,
       "length": 7,
       "value": "\"star1\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34493,
+      "offset": 34626,
       "length": 7,
       "value": "\"star2\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34620,
+      "offset": 34753,
       "length": 7,
       "value": "\"star3\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34747,
+      "offset": 34880,
       "length": 7,
       "value": "\"star4\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 34889,
+      "offset": 35022,
       "length": 15,
       "value": "\"sunrise_Light\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35022,
+      "offset": 35155,
       "length": 6,
       "value": "\"sura\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35172,
+      "offset": 35305,
       "length": 19,
       "value": "\"tahajjudnamazlogo\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35319,
+      "offset": 35452,
       "length": 11,
       "value": "\"tasbeehBG\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35452,
+      "offset": 35585,
       "length": 8,
       "value": "\"tasbih\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35588,
+      "offset": 35721,
       "length": 11,
       "value": "\"tashbeebg\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35719,
+      "offset": 35852,
       "length": 7,
       "value": "\"thumb\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35844,
+      "offset": 35977,
       "length": 6,
       "value": "\"tick\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 35974,
+      "offset": 36107,
       "length": 9,
       "value": "\"twitter\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 36105,
+      "offset": 36238,
       "length": 8,
       "value": "\"unlike\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 36235,
+      "offset": 36368,
       "length": 8,
       "value": "\"volume\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 36375,
+      "offset": 36508,
       "length": 13,
       "value": "\"whiteCircle\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 36516,
+      "offset": 36649,
       "length": 11,
       "value": "\"whiteTick\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 36645,
+      "offset": 36778,
       "length": 6,
       "value": "\"wifi\""
     },
     {
       "filePath": "\/Users\/deep\/Library\/Developer\/Xcode\/DerivedData\/DeenIslamSDK-danadqjuzgynchblhvwjldvhrtvm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DeenIslamSDK\/IntermediateBuildFilesPath\/DeenIslamSDK.build\/Release-iphonesimulator\/DeenIslamSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 36771,
+      "offset": 36904,
       "length": 7,
       "value": "\"zakat\""
     }
