@@ -77446,7 +77446,10 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "DeenIslamSDK"
+        "moduleName": "DeenIslamSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -107691,301 +107694,301 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "Array",
-      "offset": 2847,
+      "offset": 2855,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "Dictionary",
-      "offset": 2900,
+      "offset": 2908,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "BooleanLiteral",
-      "offset": 3017,
+      "offset": 3025,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "BooleanLiteral",
-      "offset": 3058,
+      "offset": 3066,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "StringLiteral",
-      "offset": 3112,
+      "offset": 3124,
       "length": 8,
       "value": "\"হজ\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "StringLiteral",
-      "offset": 3138,
+      "offset": 3150,
       "length": 17,
       "value": "\"নামাজ\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "StringLiteral",
-      "offset": 3173,
+      "offset": 3185,
       "length": 14,
       "value": "\"রোজা\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "StringLiteral",
-      "offset": 3205,
+      "offset": 3217,
       "length": 17,
       "value": "\"যাকাত\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 3275,
+      "offset": 3287,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 3307,
+      "offset": 3319,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "StringLiteral",
-      "offset": 3609,
+      "offset": 3621,
       "length": 31,
       "value": "\"District changed: \""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "StringLiteral",
-      "offset": 3639,
+      "offset": 3651,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "Array",
-      "offset": 3943,
+      "offset": 3955,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "BooleanLiteral",
-      "offset": 3984,
+      "offset": 3996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 107975,
+      "offset": 109012,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "BooleanLiteral",
-      "offset": 108013,
+      "offset": 109050,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108160,
+      "offset": 109205,
       "length": 4,
       "value": "0xF5"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108165,
+      "offset": 109210,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108177,
+      "offset": 109222,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108182,
+      "offset": 109227,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108193,
+      "offset": 109238,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108198,
+      "offset": 109243,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108210,
+      "offset": 109255,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108282,
+      "offset": 109327,
       "length": 4,
       "value": "0xF7"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108287,
+      "offset": 109332,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108299,
+      "offset": 109344,
       "length": 4,
       "value": "0xED"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108304,
+      "offset": 109349,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108315,
+      "offset": 109360,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108320,
+      "offset": 109365,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108332,
+      "offset": 109377,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108396,
+      "offset": 109441,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108404,
+      "offset": 109449,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108453,
+      "offset": 109498,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108461,
+      "offset": 109506,
       "length": 4,
       "value": "0.55"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108501,
+      "offset": 109546,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108555,
+      "offset": 109608,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108795,
+      "offset": 109856,
       "length": 4,
       "value": "0.33"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108866,
+      "offset": 109927,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108872,
+      "offset": 109933,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108924,
+      "offset": 109985,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "FloatLiteral",
-      "offset": 108930,
+      "offset": 109991,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 108973,
+      "offset": 110034,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/IbadahHome.swift",
       "kind": "IntegerLiteral",
-      "offset": 109036,
+      "offset": 110105,
       "length": 1,
       "value": "2"
     },
@@ -108631,7 +108634,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 9,
-      "value": "\"v1.0.10\""
+      "value": "\"v1.0.12\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Vmax\/VmaxAdSpaceManager.swift",
@@ -109224,8 +109227,8 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "Array",
-      "offset": 780,
-      "length": 3041,
+      "offset": 784,
+      "length": 3037,
       "value": "[\"Dhaka (ঢাকা)\", \"Barisal (বরিশাল)\", \"Khulna (খুলনা)\", \"Chittagong (চট্টগ্রাম)\", \"Mymensingh (ময়মনসিংহ)\", \"Rangpur (রংপুর)\", \"Rajshahi (রাজশাহী)\", \"Sylhet (সিলেট)\", \"Bagerhat (বাগেরহাট)\", \"Chuadanga (চুয়াডাঙ্গা)\", \"Jessore (যশোর)\", \"Jhenaidah (ঝিনাইদহ)\", \"Kushtia (কুষ্টিয়া)\", \"Magura (মাগুরা)\", \"Meherpur (মেহেরপুর)\", \"Narail (নড়াইল)\", \"Satkhira (সাতক্ষীরা)\", \"Bandarban (বান্দরবান)\", \"Brahmanbaria (ব্রাহ্মণবাড়িয়া)\", \"Chandpur (চাঁদপুর)\", \"Comilla (কুমিল্লা)\", \"CoxsBazar (কক্সবাজার)\", \"Feni (ফেনী)\", \"Khagrachhari (খাগড়াছড়ি)\", \"Lakshmipur (লক্ষ্মীপুর)\", \"Noakhali (নোয়াখালী)\", \"Rangamati (রাঙ্গামাটি)\", \"Faridpur (ফরিদপুর)\", \"Tangail (টাঙ্গাইল)\", \"Gazipur (গাজীপুর)\", \"Gopalganj (গোপালগঞ্জ)\", \"Kishoreganj (কিশোরগঞ্জ)\", \"Madaripur (মাদারীপুর)\", \"Manikganj (মানিকগঞ্জ)\", \"Munshiganj (মুন্সীগঞ্জ)\", \"Narayanganj (নারায়ণগঞ্জ)\", \"Narsingdi (নরসিংদী)\", \"Rajbari (রাজবাড়ী)\", \"Shariatpur (শরীয়তপুর)\", \"Barguna (বরগুনা)\", \"Bhola (ভোলা)\", \"Jhalokati (ঝালকাঠি)\", \"Patuakhali (পটুয়াখালী)\", \"Pirojpur (পিরোজপুর)\", \"Dinajpur (দিনাজপুর)\", \"Gaibandha (গাইবান্ধা)\", \"Kurigram (কুড়িগ্রাম)\", \"Lalmonirhat (লালমনিরহাট)\", \"Nilphamari (নীলফামারী)\", \"Panchagarh (পঞ্চগড়)\", \"Thakurgaon (ঠাকুরগাঁও)\", \"Bogra (বগুড়া)\", \"Pabna (পাবনা)\", \"Joypurhat (জয়পুরহাট)\", \"Chapainawabganj (চাঁপাইনবাবগঞ্জ)\", \"Naogaon (নওগাঁ)\", \"Natore (নাটোর)\", \"Sirajganj (সিরাজগঞ্জ)\", \"Habiganj (হবিগঞ্জ)\", \"Moulvibazar (মৌলভীবাজার)\", \"Sunamganj (সুনামগঞ্জ)\", \"Sherpur (শেরপুর)\", \"Jamalpur (জামালপুর)\", \"Netrokona (নেত্রকোনা)\"]"
     },
     {
@@ -109238,1358 +109241,1358 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4302,
+      "offset": 4299,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14603,
+      "offset": 14714,
       "length": 7,
       "value": "\"Dhaka\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14645,
+      "offset": 14756,
       "length": 7,
       "value": "23.8103"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14665,
+      "offset": 14776,
       "length": 7,
       "value": "90.4125"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14683,
+      "offset": 14794,
       "length": 9,
       "value": "\"Barisal\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14727,
+      "offset": 14838,
       "length": 7,
       "value": "22.7010"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14747,
+      "offset": 14858,
       "length": 7,
       "value": "90.3535"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14765,
+      "offset": 14876,
       "length": 8,
       "value": "\"Khulna\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14808,
+      "offset": 14919,
       "length": 7,
       "value": "22.8456"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14828,
+      "offset": 14939,
       "length": 7,
       "value": "89.5403"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14846,
+      "offset": 14957,
       "length": 12,
       "value": "\"Chittagong\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14893,
+      "offset": 15004,
       "length": 7,
       "value": "22.3569"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14913,
+      "offset": 15024,
       "length": 7,
       "value": "91.7832"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14931,
+      "offset": 15042,
       "length": 12,
       "value": "\"Mymensingh\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14978,
+      "offset": 15089,
       "length": 7,
       "value": "24.7471"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14998,
+      "offset": 15109,
       "length": 7,
       "value": "90.4203"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15016,
+      "offset": 15127,
       "length": 9,
       "value": "\"Rangpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15060,
+      "offset": 15171,
       "length": 7,
       "value": "25.7439"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15080,
+      "offset": 15191,
       "length": 7,
       "value": "89.2752"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15098,
+      "offset": 15209,
       "length": 10,
       "value": "\"Rajshahi\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15143,
+      "offset": 15254,
       "length": 7,
       "value": "24.3745"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15163,
+      "offset": 15274,
       "length": 7,
       "value": "88.6042"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15181,
+      "offset": 15292,
       "length": 8,
       "value": "\"Sylhet\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15224,
+      "offset": 15335,
       "length": 7,
       "value": "24.8949"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15244,
+      "offset": 15355,
       "length": 7,
       "value": "91.8687"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15262,
+      "offset": 15373,
       "length": 10,
       "value": "\"Bagerhat\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15307,
+      "offset": 15418,
       "length": 7,
       "value": "22.6516"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15327,
+      "offset": 15438,
       "length": 7,
       "value": "89.7859"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15345,
+      "offset": 15456,
       "length": 11,
       "value": "\"Chuadanga\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15391,
+      "offset": 15502,
       "length": 7,
       "value": "23.6402"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15411,
+      "offset": 15522,
       "length": 7,
       "value": "88.8418"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15429,
+      "offset": 15540,
       "length": 9,
       "value": "\"Jessore\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15473,
+      "offset": 15584,
       "length": 7,
       "value": "23.1664"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15493,
+      "offset": 15604,
       "length": 7,
       "value": "89.2081"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15511,
+      "offset": 15622,
       "length": 11,
       "value": "\"Jhenaidah\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15557,
+      "offset": 15668,
       "length": 7,
       "value": "23.5450"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15577,
+      "offset": 15688,
       "length": 7,
       "value": "89.1726"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15595,
+      "offset": 15706,
       "length": 9,
       "value": "\"Kushtia\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15639,
+      "offset": 15750,
       "length": 7,
       "value": "23.9013"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15659,
+      "offset": 15770,
       "length": 7,
       "value": "89.1204"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15677,
+      "offset": 15788,
       "length": 8,
       "value": "\"Magura\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15720,
+      "offset": 15831,
       "length": 7,
       "value": "23.4873"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15740,
+      "offset": 15851,
       "length": 7,
       "value": "89.4199"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15758,
+      "offset": 15869,
       "length": 10,
       "value": "\"Meherpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15803,
+      "offset": 15914,
       "length": 7,
       "value": "23.7622"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15823,
+      "offset": 15934,
       "length": 7,
       "value": "88.6318"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15841,
+      "offset": 15952,
       "length": 8,
       "value": "\"Narail\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15884,
+      "offset": 15995,
       "length": 7,
       "value": "23.1725"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15904,
+      "offset": 16015,
       "length": 7,
       "value": "89.5127"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15922,
+      "offset": 16033,
       "length": 10,
       "value": "\"Satkhira\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15967,
+      "offset": 16078,
       "length": 7,
       "value": "22.7185"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15987,
+      "offset": 16098,
       "length": 7,
       "value": "89.0705"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16005,
+      "offset": 16116,
       "length": 11,
       "value": "\"Bandarban\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16051,
+      "offset": 16162,
       "length": 7,
       "value": "22.1953"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16071,
+      "offset": 16182,
       "length": 7,
       "value": "92.2184"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16089,
+      "offset": 16200,
       "length": 14,
       "value": "\"Brahmanbaria\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16138,
+      "offset": 16249,
       "length": 7,
       "value": "23.9571"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16158,
+      "offset": 16269,
       "length": 7,
       "value": "91.1119"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16176,
+      "offset": 16287,
       "length": 10,
       "value": "\"Chandpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16221,
+      "offset": 16332,
       "length": 7,
       "value": "23.2333"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16241,
+      "offset": 16352,
       "length": 7,
       "value": "90.6713"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16259,
+      "offset": 16370,
       "length": 9,
       "value": "\"Comilla\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16303,
+      "offset": 16414,
       "length": 7,
       "value": "23.4607"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16323,
+      "offset": 16434,
       "length": 7,
       "value": "91.1809"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16341,
+      "offset": 16452,
       "length": 11,
       "value": "\"CoxsBazar\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16387,
+      "offset": 16498,
       "length": 7,
       "value": "21.4272"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16407,
+      "offset": 16518,
       "length": 7,
       "value": "92.0058"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16425,
+      "offset": 16536,
       "length": 6,
       "value": "\"Feni\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16466,
+      "offset": 16577,
       "length": 7,
       "value": "23.0159"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16486,
+      "offset": 16597,
       "length": 7,
       "value": "91.3976"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16504,
+      "offset": 16615,
       "length": 14,
       "value": "\"Khagrachhari\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16553,
+      "offset": 16664,
       "length": 7,
       "value": "23.1193"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16573,
+      "offset": 16684,
       "length": 7,
       "value": "91.9847"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16591,
+      "offset": 16702,
       "length": 12,
       "value": "\"Lakshmipur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16638,
+      "offset": 16749,
       "length": 7,
       "value": "22.9447"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16658,
+      "offset": 16769,
       "length": 7,
       "value": "90.8282"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16676,
+      "offset": 16787,
       "length": 10,
       "value": "\"Noakhali\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16721,
+      "offset": 16832,
       "length": 7,
       "value": "22.8696"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16741,
+      "offset": 16852,
       "length": 7,
       "value": "91.0994"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16759,
+      "offset": 16870,
       "length": 11,
       "value": "\"Rangamati\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16805,
+      "offset": 16916,
       "length": 7,
       "value": "22.6556"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16825,
+      "offset": 16936,
       "length": 7,
       "value": "92.1754"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16843,
+      "offset": 16954,
       "length": 10,
       "value": "\"Faridpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16888,
+      "offset": 16999,
       "length": 7,
       "value": "23.6071"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16908,
+      "offset": 17019,
       "length": 7,
       "value": "89.8429"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16926,
+      "offset": 17037,
       "length": 9,
       "value": "\"Tangail\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16970,
+      "offset": 17081,
       "length": 7,
       "value": "24.2513"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16990,
+      "offset": 17101,
       "length": 7,
       "value": "89.9167"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17008,
+      "offset": 17119,
       "length": 9,
       "value": "\"Gazipur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17052,
+      "offset": 17163,
       "length": 7,
       "value": "23.9999"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17072,
+      "offset": 17183,
       "length": 7,
       "value": "90.4203"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17090,
+      "offset": 17201,
       "length": 11,
       "value": "\"Gopalganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17136,
+      "offset": 17247,
       "length": 7,
       "value": "23.0051"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17156,
+      "offset": 17267,
       "length": 7,
       "value": "89.8266"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17174,
+      "offset": 17285,
       "length": 13,
       "value": "\"Kishoreganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17222,
+      "offset": 17333,
       "length": 7,
       "value": "24.4449"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17242,
+      "offset": 17353,
       "length": 7,
       "value": "90.7766"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17260,
+      "offset": 17371,
       "length": 11,
       "value": "\"Madaripur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17306,
+      "offset": 17417,
       "length": 7,
       "value": "23.1641"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17326,
+      "offset": 17437,
       "length": 7,
       "value": "90.1897"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17344,
+      "offset": 17455,
       "length": 11,
       "value": "\"Manikganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17390,
+      "offset": 17501,
       "length": 7,
       "value": "23.8617"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17410,
+      "offset": 17521,
       "length": 7,
       "value": "90.0003"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17428,
+      "offset": 17539,
       "length": 12,
       "value": "\"Munshiganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17475,
+      "offset": 17586,
       "length": 7,
       "value": "23.5422"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17495,
+      "offset": 17606,
       "length": 7,
       "value": "90.5305"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17513,
+      "offset": 17624,
       "length": 13,
       "value": "\"Narayanganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17561,
+      "offset": 17672,
       "length": 7,
       "value": "23.6238"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17581,
+      "offset": 17692,
       "length": 7,
       "value": "90.5000"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17599,
+      "offset": 17710,
       "length": 11,
       "value": "\"Narsingdi\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17645,
+      "offset": 17756,
       "length": 7,
       "value": "23.9230"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17665,
+      "offset": 17776,
       "length": 7,
       "value": "90.7177"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17683,
+      "offset": 17794,
       "length": 9,
       "value": "\"Rajbari\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17727,
+      "offset": 17838,
       "length": 7,
       "value": "23.7574"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17747,
+      "offset": 17858,
       "length": 7,
       "value": "89.6445"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17765,
+      "offset": 17876,
       "length": 12,
       "value": "\"Shariatpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17812,
+      "offset": 17923,
       "length": 7,
       "value": "23.2423"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17832,
+      "offset": 17943,
       "length": 7,
       "value": "90.4348"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17850,
+      "offset": 17961,
       "length": 9,
       "value": "\"Barguna\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17894,
+      "offset": 18005,
       "length": 7,
       "value": "22.1592"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17914,
+      "offset": 18025,
       "length": 7,
       "value": "90.1256"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17932,
+      "offset": 18043,
       "length": 7,
       "value": "\"Bhola\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17974,
+      "offset": 18085,
       "length": 7,
       "value": "22.6859"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 17994,
+      "offset": 18105,
       "length": 7,
       "value": "90.6482"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18012,
+      "offset": 18123,
       "length": 11,
       "value": "\"Jhalokati\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18058,
+      "offset": 18169,
       "length": 7,
       "value": "22.6406"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18078,
+      "offset": 18189,
       "length": 7,
       "value": "90.1987"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18096,
+      "offset": 18207,
       "length": 12,
       "value": "\"Patuakhali\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18143,
+      "offset": 18254,
       "length": 7,
       "value": "22.3596"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18163,
+      "offset": 18274,
       "length": 7,
       "value": "90.3299"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18181,
+      "offset": 18292,
       "length": 10,
       "value": "\"Pirojpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18226,
+      "offset": 18337,
       "length": 7,
       "value": "22.5791"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18246,
+      "offset": 18357,
       "length": 7,
       "value": "89.9759"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18264,
+      "offset": 18375,
       "length": 10,
       "value": "\"Dinajpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18309,
+      "offset": 18420,
       "length": 7,
       "value": "25.6217"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18329,
+      "offset": 18440,
       "length": 7,
       "value": "88.6355"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18347,
+      "offset": 18458,
       "length": 11,
       "value": "\"Gaibandha\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18393,
+      "offset": 18504,
       "length": 7,
       "value": "25.3288"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18413,
+      "offset": 18524,
       "length": 7,
       "value": "89.5281"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18431,
+      "offset": 18542,
       "length": 10,
       "value": "\"Kurigram\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18476,
+      "offset": 18587,
       "length": 7,
       "value": "25.8054"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18496,
+      "offset": 18607,
       "length": 7,
       "value": "89.6362"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18514,
+      "offset": 18625,
       "length": 13,
       "value": "\"Lalmonirhat\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18562,
+      "offset": 18673,
       "length": 7,
       "value": "25.9165"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18582,
+      "offset": 18693,
       "length": 7,
       "value": "89.4532"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18600,
+      "offset": 18711,
       "length": 12,
       "value": "\"Nilphamari\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18647,
+      "offset": 18758,
       "length": 7,
       "value": "25.9318"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18667,
+      "offset": 18778,
       "length": 7,
       "value": "88.8561"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18685,
+      "offset": 18796,
       "length": 12,
       "value": "\"Panchagarh\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18732,
+      "offset": 18843,
       "length": 7,
       "value": "26.3411"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18752,
+      "offset": 18863,
       "length": 7,
       "value": "88.5542"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18770,
+      "offset": 18881,
       "length": 12,
       "value": "\"Thakurgaon\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18817,
+      "offset": 18928,
       "length": 7,
       "value": "26.0337"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18837,
+      "offset": 18948,
       "length": 7,
       "value": "88.4617"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18855,
+      "offset": 18966,
       "length": 7,
       "value": "\"Bogra\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18897,
+      "offset": 19008,
       "length": 7,
       "value": "24.8465"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18917,
+      "offset": 19028,
       "length": 7,
       "value": "89.3773"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18935,
+      "offset": 19046,
       "length": 7,
       "value": "\"Pabna\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18977,
+      "offset": 19088,
       "length": 7,
       "value": "24.0063"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18997,
+      "offset": 19108,
       "length": 7,
       "value": "89.2372"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19015,
+      "offset": 19126,
       "length": 11,
       "value": "\"Joypurhat\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19061,
+      "offset": 19172,
       "length": 7,
       "value": "25.0968"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19081,
+      "offset": 19192,
       "length": 7,
       "value": "89.0227"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19099,
+      "offset": 19210,
       "length": 17,
       "value": "\"Chapainawabganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19151,
+      "offset": 19262,
       "length": 7,
       "value": "24.5965"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19171,
+      "offset": 19282,
       "length": 7,
       "value": "88.2775"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19189,
+      "offset": 19300,
       "length": 9,
       "value": "\"Naogaon\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19233,
+      "offset": 19344,
       "length": 7,
       "value": "24.7936"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19253,
+      "offset": 19364,
       "length": 7,
       "value": "88.9318"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19271,
+      "offset": 19382,
       "length": 8,
       "value": "\"Natore\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19314,
+      "offset": 19425,
       "length": 7,
       "value": "24.4206"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19334,
+      "offset": 19445,
       "length": 7,
       "value": "89.0003"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19352,
+      "offset": 19463,
       "length": 11,
       "value": "\"Sirajganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19398,
+      "offset": 19509,
       "length": 7,
       "value": "24.4534"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19418,
+      "offset": 19529,
       "length": 7,
       "value": "89.7007"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19436,
+      "offset": 19547,
       "length": 10,
       "value": "\"Habiganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19481,
+      "offset": 19592,
       "length": 7,
       "value": "24.3749"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19501,
+      "offset": 19612,
       "length": 7,
       "value": "91.4155"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19519,
+      "offset": 19630,
       "length": 13,
       "value": "\"Moulvibazar\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19567,
+      "offset": 19678,
       "length": 7,
       "value": "24.4829"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19587,
+      "offset": 19698,
       "length": 7,
       "value": "91.7774"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19605,
+      "offset": 19716,
       "length": 11,
       "value": "\"Sunamganj\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19651,
+      "offset": 19762,
       "length": 7,
       "value": "25.0658"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19671,
+      "offset": 19782,
       "length": 7,
       "value": "91.3950"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19689,
+      "offset": 19800,
       "length": 9,
       "value": "\"Sherpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19733,
+      "offset": 19844,
       "length": 7,
       "value": "25.0205"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19753,
+      "offset": 19864,
       "length": 7,
       "value": "90.0153"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19771,
+      "offset": 19882,
       "length": 10,
       "value": "\"Jamalpur\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19816,
+      "offset": 19927,
       "length": 7,
       "value": "24.9375"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19836,
+      "offset": 19947,
       "length": 7,
       "value": "89.9378"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19854,
+      "offset": 19965,
       "length": 11,
       "value": "\"Netrokona\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19900,
+      "offset": 20011,
       "length": 7,
       "value": "24.8710"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19920,
+      "offset": 20031,
       "length": 7,
       "value": "90.7279"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/DistrictPickerViewController.swift",
       "kind": "Dictionary",
-      "offset": 20085,
+      "offset": 20200,
       "length": 607,
       "value": "[(\"chattogram\", \"Chittagong\"), (\"cumilla\", \"Comilla\"), (\"jashore\", \"Jessore\"), (\"bogura\", \"Bogra\"), (\"barishal\", \"Barisal\"), (\"cox's bazar\", \"CoxsBazar\"), (\"coxs bazar\", \"CoxsBazar\"), (\"coxsbazar\", \"CoxsBazar\"), (\"chapai nawabganj\", \"Chapainawabganj\"), (\"nawabganj\", \"Chapainawabganj\"), (\"jhalokathi\", \"Jhalokati\"), (\"khagrachari\", \"Khagrachhari\"), (\"laxmipur\", \"Lakshmipur\"), (\"maulvibazar\", \"Moulvibazar\"), (\"netrakona\", \"Netrokona\"), (\"brahmanbaria\", \"Brahmanbaria\"), (\"b.baria\", \"Brahmanbaria\")]"
     },
@@ -131855,14 +131858,14 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Home\/HomeCategoryCell\/HomeCategoryCell.swift",
       "kind": "Array",
-      "offset": 532,
+      "offset": 610,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/ViewController\/Home\/HomeCategoryCell\/HomeCategoryCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 722,
+      "offset": 770,
       "length": 5,
       "value": "false"
     },
@@ -137931,28 +137934,28 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/HalfScreenPresentationController.swift",
       "kind": "FloatLiteral",
-      "offset": 933,
+      "offset": 937,
       "length": 4,
       "value": "0.65"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/HalfScreenPresentationController.swift",
       "kind": "FloatLiteral",
-      "offset": 1035,
+      "offset": 1039,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/HalfScreenPresentationController.swift",
       "kind": "FloatLiteral",
-      "offset": 1145,
+      "offset": 1149,
       "length": 4,
       "value": "0.35"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/SDK_MYGP_IBADAH\/DeenGPSDK-Deep\/DeenIslamSDK\/HalfScreenPresentationController.swift",
       "kind": "FloatLiteral",
-      "offset": 1251,
+      "offset": 1255,
       "length": 4,
       "value": "0.50"
     },
